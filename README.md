@@ -9,7 +9,7 @@
 5. Open page and Dev Tools in the browser.
 6. Inspect the "My Badge" element. Observe that the element tag name is `<app-badge>`.
 7. Run `npm run build`.
-8. Open the built `index.html` file in a browser.
+8. Open the built `index.html` file in a browser. If you have Python 3, you can do `cd dist && python -m http.server` and navigate `localhost` at the port specified.
 9. Observe that the badge element is output as `<tagname>`.
 10. In `test-module/index.esm.js`, remove the `useRef` import.
 11. In the `test-module` directory, run `npm pack`.
