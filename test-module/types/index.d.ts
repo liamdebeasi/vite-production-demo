@@ -1,0 +1,1 @@
+export declare const AppBadge: import("react").ForwardRefExoticComponent<import("react").HTMLAttributes<HTMLElement> & import("react").RefAttributes<HTMLElement>>;

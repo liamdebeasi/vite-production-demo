@@ -1,0 +1,6 @@
+{
+  "name": "test-module",
+  "version": "0.0.01",
+  "module": "index.esm.js",
+  "types": "types/index.d.ts"
+}
